@@ -25,4 +25,3 @@ I'm a graduate student with a passion for all things Machine Learning and Artifi
 ## Let's Connect!
 - 📧 Email: anshulanilkumar.mundakatil@sjsu.edu | t.anshulprime@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/anshul-anil-m](linkedin.com/in/anshul-anil-m).
-- 📁 GitHub: [github.com/Anshul-AM](github.com/Anshul-AM).
