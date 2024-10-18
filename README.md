@@ -4,7 +4,7 @@ I'm a graduate student with a passion for all things Machine Learning and Artifi
 ## About Me
 - 🌱 Currently pursuing Master's in Engineering with a specialization in Machine Learning and Data Science at San Jose State University.
 - 🎓 Bachelor's in Computer Science and Engineering.
-- 🤖 Seeking internship roles as a Machine Learning, Artificial Intelligence Engineer and Data Science.
+- 🤖 Seeking Full time/ Internship roles as a Machine Learning, Artificial Intelligence Engineer and Data Science.
 - 💡 Love exploring new technologies and applying them to solve real-world problems.
 - 📚 Always learning and experimenting with new ideas.
 
