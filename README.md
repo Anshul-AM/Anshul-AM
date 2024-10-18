@@ -16,7 +16,7 @@ I'm a graduate student with a passion for all things Machine Learning and Artifi
 - 🛠️ TensorFlow | Pytorch | OpenCV | Flask | Pandas | NumPy.
 
 ## Projects
-- 🌐 **AI Enabled RAN Intelligent Controller Platform for Cellular Networks** - Actively spearheading the development and implementation of deep learning techniques in Open Radio Access Networks (O-RAN) to enhance network performance and efficiency
+- 🌐 **AI Enabled RAN Intelligent Controller Platform for Cellular Networks** - Actively spearheading the development and implementation of Gen AI techniques in Open Radio Access Networks (O-RAN) to enhance network performance and efficiency
 - 🔍 **Artificial Intelligence and Data Engineering Projects** - Various projects involving search algorithms, path planning, and optimization.
 - 🗣️ **Dysarthric Speech Classification** - Developed an automated solution for recognizing dysarthric voices with significantly improved accuracy.
 - And more...
